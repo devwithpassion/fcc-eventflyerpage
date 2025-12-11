@@ -1,0 +1,26 @@
+body {
+  padding: 50px 0;
+  margin: 0 auto;
+  width: 80vw;
+  min-height: calc(100vh - 100px);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+hr {
+  width: 90%;
+}
+
+header p {
+  
+}
+section {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+section li {
+  text-align: left;
+  line-height: 1.5;
+}
