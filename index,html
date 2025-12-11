@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Build an Event Flyer Page</title>
+</head>
+
+<body>
+  <header>
+    <img
+      src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg"
+      alt="Decoration of hanging colorful triangle flags on spanned ropes"
+      >
+    <h1>Traditional Indonesian Food Festival</h1>
+    <p>Experience the rich flavors and culinary traditions of Indonesia's diverse archipelago!</p>
+    <h2>Event Details</h2>
+    <p><b>When:</b> <time datetime="2025-12-27">December 27, 2025</time></p>
+    <p><b>Where:</b> Jakarta Convention Center</p>
+    <hr>
+  </header>
+
+  <main>
+    <section>
+      <h2>Festival Highlights</h2>
+      <ul>
+        <li>Cooking Demonstrations by Master Chefs</li>
+        <li>Traditional Food Market from 37 Provinces</li>
+        <li>Live Rendang Cooking Competition</li>
+        <li>Indonesian Spice & Herb Exhibition</li>
+        <li>Traditional Cooking Utensil Display</li>        
+      </ul>
+    </section>
+      
+    <section>
+      <h2>Special Activities</h2>
+      <ul>
+        <li>Traditional Jamu (Herbal Drink) Making Workshop</li>
+        <li>Indonesian Coffee Tasting Session</li>
+        <li>Batik Tablecloth Painting Workshop</li>
+        <li>Traditional Snack Making for Kids</li>
+        <li>Spice Blending Class</li>
+      </ul>
+    </section>
+  </main>
+  
+  <footer>
+    <hr>
+    <p>&copy; 2025 Traditional Indonesian Food Festival
+  </footer>
+</body>
+
+</html>
